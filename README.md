@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JoshuaAFisher/post-install-config)
   - [osTicket: Creating and Working Tickets](https://github.com/JoshuaAFisher/Creating-and-Working-Tickets)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Monitoring Network Traffic with Azure VMs](https://github.com/JoshuaAFisher/Network-Monitoring)
+  - [Setup and Use a VPN in Azure](https://github.com/JoshuaAFisher/Azure_VPN_Setup)
 
 <h2>🤳Connect with me:</h2>
 
